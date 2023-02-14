@@ -31,7 +31,13 @@
   justify-content: right;
 }
 /*6. exercice-flex-grow-1 */
+.exercice-flex-grow-1 .element-blue{
+ flex-grow: 1;
+}
 
+.exercice-flex-grow-1 .element-red{
+  flex-grow: 2;
+ }
 /*7. exercice-flex-grow-2 */
 
 /*8. exercice-flex-grow-3 */
