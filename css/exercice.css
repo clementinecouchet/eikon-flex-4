@@ -61,3 +61,25 @@
   align-content: center;
   flex-wrap: wrap-reverse;
 }
+
+.exercice-all-in .element-blue{
+  flex-grow: 2;
+}
+.exercice-all-in .element-red{
+  flex-grow: 1;
+}
+.exercice-all-in .element-green{
+  flex-grow: 1;
+}
+
+.exercice-all-in .element-gray{
+  flex-grow: 1;
+}
+
+.exercice-all-in .element-yellow{
+  flex-grow: 1;
+}
+
+.exercice-all-in .element-pink{
+  flex-grow: 1;
+}
