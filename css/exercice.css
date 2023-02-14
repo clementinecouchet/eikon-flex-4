@@ -19,10 +19,15 @@
   flex-wrap: wrap-reverse;
 }
 /*4. exercice-align-content-2 */
-.exercice-align-content-2 .container
+.exercice-align-content-2 .container {
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
 /*5. exercice-align-content-3 */
-
+.exercice-align-content-3 .container {
+  flex-wrap: wrap;
+}
 /*6. exercice-flex-grow-1 */
 
 /*7. exercice-flex-grow-2 */
